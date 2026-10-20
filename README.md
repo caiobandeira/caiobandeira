@@ -3,7 +3,7 @@
 Desenvolvedor em formação, de Recife/PE. Gosto de criar **sistemas web que resolvem problemas reais de negócio**:
 painéis de gestão, cadastros, orçamentos e controle financeiro, com banco de dados e login.
 
-- 🎓 Estudante do **6º período** na **UNICAP** (Universidade Católica de Pernambuco)
+- 🎓 Estudante do **6º período de Ciência da Computação** na **UNICAP** (Universidade Católica de Pernambuco)
 - 🔭 No momento: aprimorando meus projetos web e estudando TypeScript
 - 🤝 Aberto a oportunidades de **estágio / júnior em desenvolvimento web**
 
