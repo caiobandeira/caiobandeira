@@ -5,7 +5,7 @@ painéis de gestão, cadastros, orçamentos e controle financeiro, com banco de 
 
 - 🎓 Estudante do **6º período de Ciência da Computação** na **UNICAP** (Universidade Católica de Pernambuco)
 - 🔭 No momento: aprimorando meus projetos web e estudando TypeScript
-- 🤝 Aberto a oportunidades de **estágio / júnior em desenvolvimento web**
+- 🤝 Aberto a oportunidades de **estágio / júnior** em **desenvolvimento web**, **análise de dados** e **banco de dados**
 
 ### 🛠️ Tecnologias
 
